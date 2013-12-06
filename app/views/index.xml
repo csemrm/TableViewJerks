@@ -1,0 +1,6 @@
+<Alloy>
+    <Window class="container">
+        <Require src="tableView" id="tbl"></Require>
+        <Require src="slidingMenu" id="sld"></Require>
+    </Window>
+</Alloy>

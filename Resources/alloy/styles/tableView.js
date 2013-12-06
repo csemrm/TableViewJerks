@@ -1,0 +1,1 @@
+module.exports = [{"isApi":true,"priority":1000.0007,"key":"TableViewRow","style":{className:"rows",}},{"isId":true,"priority":100000.0006,"key":"tableView","style":{backgroundColor:"#fff",width:"100%",height:"100%",zIndex:2,}}];
